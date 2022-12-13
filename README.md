@@ -55,7 +55,10 @@ It was really nice vizualisig the dataset in PowerBi 🤩.
 
 </ol>
 
-<p>You can interact with the dashboard <a href = "#">here</a></p>
-<p>You can also find the PowerBi file, python notebooks and the dataset in the file section.</p>
+<p>You can interact with the dashboard <a href = "https://app.powerbi.com/view?r=eyJrIjoiNTg3ZjUzYjEtZjJjNS00MGNiLThhNjYtNmYwNjliMmYyODljIiwidCI6ImE0YWNiZjAwLWUyOWEtNGRiZS1iM2VjLTc4MGY0MmM1MDE3NyJ9&pageName=ReportSection2f090246a7e00edd04a6">here</a></p>
+
+
+<p>You can also find the PowerBi file, python notebooks in the file section.</p
+<p>The dataset can be accessed <a href = "https://drive.google.com/file/d/1tg-DNGgIIpP4LYuLTnT2x76TXLunfSTy/view?usp=sharing">here</a></p>
 
 <p>Thank you.</p>
